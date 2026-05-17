@@ -1,5 +1,5 @@
 from colors import *
-
+##implementacion de la clase pitcture 
 class Picture:
   def __init__(self, img):
     self.img = img
